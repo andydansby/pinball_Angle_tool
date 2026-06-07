@@ -1,0 +1,10 @@
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\pinball board angle tool\pinball board angle tool\bin\Debug\pinball board angle tool.exe
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\pinball board angle tool\pinball board angle tool\bin\Debug\pinball board angle tool.pdb
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\pinball board angle tool\pinball board angle tool\obj\x86\Debug\pinball_board_angle_tool.Form1.resources
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\pinball board angle tool\pinball board angle tool\obj\x86\Debug\pinball_board_angle_tool.FormAngles.resources
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\pinball board angle tool\pinball board angle tool\obj\x86\Debug\pinball_board_angle_tool.controlForm.resources
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\pinball board angle tool\pinball board angle tool\obj\x86\Debug\pinball_board_angle_tool.Properties.Resources.resources
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\pinball board angle tool\pinball board angle tool\obj\x86\Debug\pinball board angle tool.csproj.GenerateResource.Cache
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\pinball board angle tool\pinball board angle tool\obj\x86\Debug\pinball board angle tool.exe
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\pinball board angle tool\pinball board angle tool\obj\x86\Debug\pinball board angle tool.pdb
+C:\Users\andyd\Documents\Visual Studio 2010\Projects\pinball board angle tool\pinball board angle tool\obj\x86\Debug\pinball board angle tool.csprojResolveAssemblyReference.cache
